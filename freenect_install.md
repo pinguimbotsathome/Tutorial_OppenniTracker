@@ -8,7 +8,8 @@ $ sudo apt-get install git-core cmake freeglut3-dev pkg-config build-essential l
 
 ## Instalação do repositorio:
 ```
-$ git clone git://github.com/OpenKinect/libfreenect.git
+$ git clone https://github.com/OpenKinect/libfreenect.git
+
 
 ```
 
